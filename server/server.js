@@ -10,7 +10,7 @@ app.use(express.static(path.join(__dirname, '../public')));
 
 // Home route
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, '../public/index1.html'));
+    res.sendFile(path.join(__dirname, '../public/index.html'));
 });
 
 // Test route
