@@ -17,21 +17,24 @@ Express
 ## PROD codebase
   
 ## PROD server
-  https://tuyet.barrycumbie.com/
+  
 
 ## DEV codebase
 
 ## DEV server
-
+  https://dev-golf.onrender.com
+  
 ## docs
 
 ## published docs
 
 ##CI/CD workflow
-
+  https://github.com/tuyetnguyenfl/dev-golf/actions/workflows/re-deploy-main-to-gcp.yml
+  
 ## successful PROD deployment
+  https://tuyet.barrycumbie.com/
 
-github.com/tuyetnguyenfl/dev-golf/main
+
 
 ### user story
 
@@ -43,4 +46,5 @@ github.com/tuyetnguyenfl/dev-golf/main
 ### narrative
 
 It is a simple web built by HTML/CSS/JavaScript for front end and node.js/express for back end. The version of this project is controlled by github, deployed to Render as the development environment, and deployed to a Google Cloud Linux VM as production, using Nginx and PM2.
+
 
