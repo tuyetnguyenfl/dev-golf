@@ -1,4 +1,4 @@
-# dev-
+# dev-golf
 # Hello Friend Web Application
 
 ## Description
@@ -15,24 +15,30 @@ Node.js
 Express
 
 ## PROD codebase
+  https://github.com/tuyetnguyenfl/dev-golf/tree/main 
   
 ## PROD server
-  
+  - https://tuyet.barrycumbie.com/
+  - 34.68.12.166
 
 ## DEV codebase
-
+  https://github.com/tuyetnguyenfl/dev-golf/tree/dev
+  
 ## DEV server
   https://dev-golf.onrender.com
   
 ## docs
-
+  https://github.com/tuyetnguyenfl/dev-golf/tree/main/docs
+  https://github.com/tuyetnguyenfl/dev-golf/tree/dev/docs
+  
 ## published docs
-
+  https://github.com/tuyetnguyenfl/dev-golf
+  
 ##CI/CD workflow
   https://github.com/tuyetnguyenfl/dev-golf/actions/workflows/re-deploy-main-to-gcp.yml
   
 ## successful PROD deployment
-  https://tuyet.barrycumbie.com/
+ 
 
 
 ### user story
