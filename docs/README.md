@@ -17,7 +17,7 @@ Express
 ## PROD codebase
   
 ## PROD server
-  https://tuyet.barrycumbie.com/
+  
 
 ## DEV codebase
 
@@ -32,7 +32,7 @@ Express
   https://github.com/tuyetnguyenfl/dev-golf/actions/workflows/re-deploy-main-to-gcp.yml
   
 ## successful PROD deployment
-
+  https://tuyet.barrycumbie.com/
 
 
 ### user story
