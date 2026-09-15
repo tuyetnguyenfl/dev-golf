@@ -22,16 +22,18 @@ Express
 ## DEV codebase
 
 ## DEV server
-
+  https://dev-golf.onrender.com
+  
 ## docs
 
 ## published docs
 
 ##CI/CD workflow
-
+  https://github.com/tuyetnguyenfl/dev-golf/actions/workflows/re-deploy-main-to-gcp.yml
+  
 ## successful PROD deployment
 
-github.com/tuyetnguyenfl/dev-golf/main
+
 
 ### user story
 
