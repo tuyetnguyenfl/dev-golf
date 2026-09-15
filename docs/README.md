@@ -1,5 +1,5 @@
 # dev-golf
-# Hello Friend Web Application
+# HelloUser Web Application
 
 ## Description
 
@@ -19,7 +19,7 @@ Express
   
 ## PROD server
   - https://tuyet.barrycumbie.com/
-  - 34.68.12.166
+  - https://34.68.12.166:3000 (34.68.12.166 : externalIP of VM)
 
 ## DEV codebase
   https://github.com/tuyetnguyenfl/dev-golf/tree/dev
@@ -38,8 +38,9 @@ Express
   https://github.com/tuyetnguyenfl/dev-golf/actions/workflows/re-deploy-main-to-gcp.yml
   
 ## successful PROD deployment
- 
-
+  - https://34.68.12.166:3000 ((34.68.12.166 : externalIP of VM)
+  - https://github.com/tuyetnguyenfl/dev-golf/actions/workflows/re-deploy-main-to-gcp.yml
+  - https://tuyet.barrycumbie.com/
 
 ### user story
 
